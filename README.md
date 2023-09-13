@@ -1,6 +1,6 @@
 # challenge_portfolio_Aleksandra
 # TASK 1
-👉 ## Subtask 1
+## 👉Subtask 1
 8/10 punktów :blush: 
 ## Subtask 3
 Cześć,
