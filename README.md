@@ -1,7 +1,7 @@
 # challenge_portfolio_Aleksandra
 # TASK 1
- - 👉[Subtask 1](#Subtask-1)
- - 👉[Subtask 3](#Subtask-3)
+ -👉[Subtask 1](#Subtask-1)
+ -👉[Subtask 3](#Subtask-3)
  - 👉[Subtask 4](#Subtask-4)
  
 ## Subtask 1
