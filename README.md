@@ -18,7 +18,7 @@ Moim głównym celem jest zdobycie nowej pracy.
 
 
 
-### Jakie funkcjonalności znajdują się w aplikacji? Co bym zmieniła?
+#### Jakie funkcjonalności znajdują się w aplikacji? Co bym zmieniła?
 
 
 
