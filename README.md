@@ -1,6 +1,12 @@
 # challenge_portfolio_Aleksandra
-<h1>TASK 1</h1>
-<h2>Subtask 1</h2>
-8/10 points on the first exam
-<h2>Subtask 3</h2>
-I was motivated to take part in the challenge by the desire to organize my knowledge and the opportunity to create a portfolio.
+# TASK 1
+👉 ## Subtask 1
+8/10 punktów :blush: 
+## Subtask 3
+Cześć,
+jestem Ola. Do udziału w projekcie zgłosiłam się z chęcią ustrukturyzowania posiadanej już wiedzy oraz stworzenia atrakcyjnego portfolio. 
+
+Mam nadzieję, że w ciągu tych 7 tygodni nie tylko poszerzę swoje kompetencje ale również poznam ciekawych ludzi. 
+Moim głównym celem jest zdobycie nowej pracy.
+
+
