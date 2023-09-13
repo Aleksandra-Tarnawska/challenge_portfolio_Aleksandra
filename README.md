@@ -15,7 +15,16 @@ Moim głównym celem jest zdobycie nowej pracy.
 
 ## Subtask 4
 ### Na czym polega aplikacja?
+
+
+
 ### Jakie funkcjonalności znajdują się w aplikacji? Co bym zmieniła?
-- Czy aplikacja jest intuicyjna?
-- Jakie zauważam błędy? Co wydaje mi się błędem? 
+
+
+
+### Czy aplikacja jest intuicyjna?
+
+
+
+### Jakie zauważam błędy? Co wydaje mi się błędem? 
 
