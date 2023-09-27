@@ -7,6 +7,7 @@
 ## Subtask 1
 8/10 punktów :blush: 
 ## Subtask 3
+
 Cześć,
 
 nazywam się Ola. Do udziału w projekcie zgłosiłam się z chęcią ustrukturyzowania posiadanej już wiedzy oraz stworzenia atrakcyjnego portfolio. Mam nadzieję, że w ciągu tych 7 tygodni nie tylko poszerzę swoje kompetencje ale również poznam ciekawych ludzi.  
@@ -106,4 +107,8 @@ Aplikacja jest raczej intuiczyjna, jest to zasługą stosunkowo małej liczby fu
 #### Lista graczy
 - (Wersja PL) W sekcji funkcjonalności wyszukiwania gracza, przycisk _"Filtruj"_ i _"Resetuj"_ nie zostały przetłumaczone na język polski.
 - (Wersja PL) Po najechaniu na ikony, podpowiedzi wyświetlają się w języku angielskim.
+
+# TASK 3
+Zadanie Task 3 zostało wykonane dla aplikacji _dareit.futbolkolektyw.pl_ w środowisku produkcyjnym. Plan testów oraz raport został opublikowany w arkuszu Excel pod linkiem: https://drive.google.com/drive/u/0/folders/1UR2puhAVboBAhpV2ZmQCMOp9ILxboQdy . 
+  
   
