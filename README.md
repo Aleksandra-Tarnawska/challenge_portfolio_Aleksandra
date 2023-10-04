@@ -110,5 +110,54 @@ Aplikacja jest raczej intuiczyjna, jest to zasługą stosunkowo małej liczby fu
 
 # TASK 3
 Zadanie Task 3 zostało wykonane dla aplikacji _dareit.futbolkolektyw.pl_ w środowisku produkcyjnym. Plan testów oraz raport został opublikowany w arkuszu Excel pod linkiem: https://drive.google.com/drive/u/0/folders/1UR2puhAVboBAhpV2ZmQCMOp9ILxboQdy . 
-  
-  
+
+# TASK 4
+## Subtask 2
+Zadanie Subtask 2 zostało wykonane dla aplikacji OLX pobranej w Sklepie Play na urządzeniu XIAOMI MI11 Lite 5G. Raport został opublikowany w arkuszu Excel pod linkiem: https://drive.google.com/drive/u/0/folders/1UR2puhAVboBAhpV2ZmQCMOp9ILxboQdy . 
+
+## Subtask 3
+
+#### Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+Aplikacja OLX to aplikacja ogłoszeniowa, służy do kontaktu pomiędzy użytkownikami głównie kupującymi i sprzedającymi oraz pracodawcami i potencjalnymi pracownikami.
+
+#### Kto ma być użytkownikiem końcowym aplikacji?
+Użytkownikiem końcowym są osoby prywatne oraz firmy, które nawiązały kontakt z ogłoszeniodawcą.
+
+#### Czy według Ciebie aplikacja jest user friendly? 
+Aplikacja jest user friendly ze zwględu na swoją intuicyjność oraz nowoczesny design.
+**Aplikacja charakteryzuje się wieloma cechami przyjaznymi użytkownikom:**
+- Samouczek
+Podczas pierwszego otwarcia alikacji oraz poszczególnych obszarów, wyświetlana jest któtka informacja. Nowy użytkownik nie przeklikuje się przez dziesiątki informacji ale jednocześnie wie do czego służy dany obszar.
+
+- Wielokość ikonek i podpisy
+Wielkość ikonek w stosunku do całego ekranu zosatła dobrze dobrana. Dodatkowo zarówno większe ikonki np. Kategorii jak i mniejsze w dolnej części ekranu - Menu, zosatły podpisane słowem kluczowym.
+
+- Tryb wyświetlania, LIst ofert
+Użytkownik ma możliwość zmiany prezentacji ofert - galeria, lista, mozaika
+
+- Tryb ciemnego ekranu
+Aplikacja domyślnie dostosowuje się trybem do ustawień urządzenia, a w ustawienich aplikacji użytkownik ma możliwość zmiany trybu. 
+
+- Kompatybilność z innymi apliakcjami
+Użytkownik ma możliwość utworzenia konta za pomocą maila oraz z wykorzysatniem istniejących kont - Apple, Google, Facebook
+
+- Powiadomienia
+Użytkownik ma możliwość wyboru informowania lub nie informowania o powiadomieniach na urządzeniu podczas nieotwartej aplikacji
+
+- Bezpieczeństwo kupujących
+Przed wystawieniem ogłoszenia aplikacja wymaga weryfikacji tożsamości użytkownika za pomocą numeru telefonu
+
+- Szybkość działania
+Aplikacja działa szybko, użytkownik nie czeka na ładowanie poszczególnych obszarów.
+
+**Cechy które utrudniają korzystaie z aplikacji:**
+- brak podziału na strony (np. co 20 pozycji) wyników wyszukiwania.
+Ciągły scroling może wciągać użytkownika w niekończące się rolowanie przez co może on spędzić więcej czasu na wyszukiwaniu niż początkowo zamierzał. Nie jest też wstanie oszacować w którym momencie rolowania znalazł interesujący go przedmiot w przypadku gdy nie zapisze go w sekcji Ulubione. 
+
+#### Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?
+Aby poprawić łatwość ponownego wyszukiwania przedmiotu podzieliłabym sekcję znaleźionych ogłoszeń po kilkukrotność pozycji np. co 20, 50 100. Dzięki czemu użytkownik, który po jakimś czasie powróci do wyszukiwania będzie mógł zacząć wyszukiwanie np. od strony 5, a nie jak do tej pory od pierwszej pozycji.
+
+#### Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+Testowanie aplikacji natywnej 
+
+
