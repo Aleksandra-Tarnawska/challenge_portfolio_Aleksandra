@@ -158,6 +158,6 @@ Ciągły scroling może wciągać użytkownika w niekończące się rolowanie pr
 Aby poprawić łatwość ponownego wyszukiwania przedmiotu podzieliłabym sekcję znaleźionych ogłoszeń po kilkukrotność pozycji np. co 20, 50 100. Dzięki czemu użytkownik, który po jakimś czasie powróci do wyszukiwania będzie mógł zacząć wyszukiwanie np. od strony 5, a nie jak do tej pory od pierwszej pozycji.
 
 #### Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
-Testowanie aplikacji natywnej 
+Testowanie aplikacji natywnej uwzględnia również weryfikację responsywności względem róznych urządzeń oraz czytelnośći dla mniejszego ekranu urządzenia. Testowany jest dodatkowo wpływ aplikacji na urządznie taki jak wpływ na żywotność baterii czy pracę w tle.   
 
 
