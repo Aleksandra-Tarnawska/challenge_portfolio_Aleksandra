@@ -176,7 +176,7 @@ Służą do zdefiniowania warunków zapytań oraz łączenia wielu warunków. Wy
 
 #### Operatory porównania
 
-| Operator 	Definicja
+| Operator 	    |Definicja                                                                                                                                 |
 |:-------------:|:-----------------------------------------------------------------------------------------------------------------------------------------|
 | =             |Sprawdzenie czy wartości po obu stronach operatora są równe czy nie. Jeżeli tak to warunek jest prawdziwy.                                | 
 | !=            |Sprawdzenie czy wartości po obu stronach operatora są równe czy nie. Jeżeli nie to warunek jest prawdziwy.                                |
