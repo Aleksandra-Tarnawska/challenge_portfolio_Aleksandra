@@ -160,4 +160,19 @@ Aby poprawić łatwość ponownego wyszukiwania przedmiotu podzieliłabym sekcj�
 #### Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
 Testowanie aplikacji natywnej uwzględnia również weryfikację responsywności względem róznych urządzeń oraz czytelnośći dla mniejszego ekranu urządzenia. Testowany jest dodatkowo wpływ aplikacji na urządznie taki jak wpływ na żywotność baterii czy pracę w tle.   
 
+# TASK 5
+## Subtask 1  Krótki opis operatorów i zapytań SQL
+### Operatory
+Służą do zdefiniowania warunków zapytań oraz łączenia wielu warunków. Wyróżniamy 4 typy operatorów: artymetyczne, porównawcze, logiczne, inne.
+####Operatory artymetyczne 
+
+| Operator      | Definicja                                                  | 
+|:-------------:|:----------------------------------------------------------:|
+| +             | dodawanie                                                  |
+| -             | odejmowanie                                                |
+| *             | mnożenie                                                   |
+| /             | dzielenie                                                  |
+| %             | modulo - zwraca pozostałą część liczb całkowitych dzielenia|
+
+
 
