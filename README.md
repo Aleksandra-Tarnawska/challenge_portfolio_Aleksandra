@@ -204,7 +204,17 @@ Służą do zdefiniowania warunków zapytań oraz łączenia wielu warunków. Wy
 | IS NULL       |Operator pozwala na dokonanie porównania z 'wartością' NULL.                                                                                                                 |
 | UNIQUE        |Operator pozwala na przeszukanie każdej tabeli pod kątem niepowtarzalności rekordów.                                                                                         |
 
+### Priorytety operatorów 
 
 
-
+| lp.     | Operator                   | 
+|:-------------:|:---------------------|
+| 1. | ( )                             | 
+| 2. | *, /, %                         |  
+| 3. | +, _                            |
+| 4. | =, <, >, <=, >=, <>, !=, !<, !> |
+| 5. | NOT                             | 
+| 6. | AND                             |
+| 7. | BETWEEN, IN, LIKE, OR           |
+| 8. | = (przypisanie)                 |
 
