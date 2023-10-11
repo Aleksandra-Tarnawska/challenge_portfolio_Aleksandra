@@ -218,3 +218,20 @@ Służą do zdefiniowania warunków zapytań oraz łączenia wielu warunków. Wy
 | 7. | BETWEEN, IN, LIKE, OR           |
 | 8. | = (przypisanie)                 |
 
+### Zapytania
+Są to polecenia wyszukiwań danych w bazie np. SELECT * FROM _nazwa-tabeli_ (gwaizdka oznacza, że należy wyszukać wszystkie kolumny tabeli).
+
+#### Klauzule
+
+| Klauzula      | Definicja                                              | 
+|:-------------:|:-------------------------------------------------------|
+| SELECT        |  określanie kształtu wyniku, selekcja pionowa (kolumn) |
+| FROM          | określenie źródła (źródeł) i relacji między nimi       |  
+| WHERE         | filtracja rekordów                                     |
+| GROUP BY      | grupowanie rekordów                                    |
+| HAVING        | filtrowanie grup                                       | 
+| ORDER BY      | sortowanie wyniku                                      |
+
+
+
+
