@@ -265,6 +265,16 @@ Są to polecenia wyszukiwań danych w bazie np. SELECT * FROM _nazwa-tabeli_ (gw
 #### 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 ![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/fb144af6-80f1-4b88-a22d-b55a17df0d86)
 
+## Pytania rekrutacyjne
+
+👉 Co to jest SQL?
+SQL (Structured Query Language) to język programowania w postaci strukturalnego języka zapytań opartego o cztery polecenia SQL – Data Manipulation, Data Query, Data Control oraz SQL Data Definition. Język ten służy do tworzenia baz danych oraz ich modyfikacji i manipulacji danymi, które się w nich znajdują. Procesy te realizuje się w języku SQL.
+
+👉 Co robi SELECT w zapytaniach SQLowych?
+SELECT jest to podstawowa klauzula SQL - używana do wyszukiwania danych w tabeli. Występuje wraz z klauzulą FROM.
+
+👉 Co robi * postawiona za SELECTem  w zapytaniach SQLowych?
+Gwiazdka oznacza, że należy wyszukać wszystkie kolumny tabeli.
 
 
 
