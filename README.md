@@ -210,8 +210,8 @@ Służą do zdefiniowania warunków zapytań oraz łączenia wielu warunków. Wy
 | lp.     | Operator                   | 
 |:-------------:|:---------------------|
 | 1. | ( )                             | 
-| 2. | *, /, %                         |  
-| 3. | +, _                            |
+| 2. | * , /, %                        |  
+| 3. | + , _                           |
 | 4. | =, <, >, <=, >=, <>, !=, !<, !> |
 | 5. | NOT                             | 
 | 6. | AND                             |
