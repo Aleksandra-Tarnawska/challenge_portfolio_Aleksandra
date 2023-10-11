@@ -164,15 +164,33 @@ Testowanie aplikacji natywnej uwzględnia również weryfikację responsywności
 ## Subtask 1  Krótki opis operatorów i zapytań SQL
 ### Operatory
 Służą do zdefiniowania warunków zapytań oraz łączenia wielu warunków. Wyróżniamy 4 typy operatorów: artymetyczne, porównawcze, logiczne, inne.
-####Operatory artymetyczne 
+#### Operatory artymetyczne 
 
 | Operator      | Definicja                                                  | 
-|:-------------:|:----------------------------------------------------------:|
+|:-------------:|:-----------------------------------------------------------|
 | +             | dodawanie                                                  |
 | -             | odejmowanie                                                |
 | *             | mnożenie                                                   |
 | /             | dzielenie                                                  |
 | %             | modulo - zwraca pozostałą część liczb całkowitych dzielenia|
+
+#### Operatory porównania
+
+| Operator 	Definicja
+|:-------------:|:-----------------------------------------------------------------------------------------------------------------------------------------|
+| =             |Sprawdzenie czy wartości po obu stronach operatora są równe czy nie. Jeżeli tak to warunek jest prawdziwy.                                | 
+| !=            |Sprawdzenie czy wartości po obu stronach operatora są równe czy nie. Jeżeli nie to warunek jest prawdziwy.                                |
+| <>            |Sprawdzenie czy wartości po obu stronach operatora są równe czy nie. Jeżeli nie to warunek jest prawdziwy.                                |
+| > 	           |Sprawdzenie czy wartość po lewej stronie operatora jest większa. Jeżeli tak to warunek jest prawdziwy.                                    |
+| < 	           |Sprawdzenie czy wartość po lewej stronie operatora jest mniejsza. Jeżeli tak to warunek jest prawdziwy.                                   |
+| >=            |Sprawdzenie czy wartość po lewej stronie operatora jest większa bądź równa prawej stronie. Jeżeli tak to warunek jest prawdziwy.          |
+| <=            |Sprawdzenie czy wartość po lewej stronie operatora jest mniejsza bądź równa prawej stronie. Jeżeli tak to warunek jest prawdziwy.         |
+| !< 	          |Sprawdzenie czy wartość po lewej stronie operatora jest nie mniejsza od wartości po prawej stronie. Jeżeli tak to warunek jest prawdziwy. |
+| !> 	          |Sprawdzenie czy wartość po lewej stronie jest nie większa od wartości po prawej stronie. Jeżeli tak to warunek jest prawdziwy.            |
+
+
+
+
 
 
 
