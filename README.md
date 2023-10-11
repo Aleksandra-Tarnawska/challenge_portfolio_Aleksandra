@@ -238,24 +238,33 @@ Są to polecenia wyszukiwań danych w bazie np. SELECT * FROM _nazwa-tabeli_ (gw
 ####  1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 ![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/64ea23bd-d1ab-4c9b-b823-554d61e472a8)
 
-
 ####  2. Wyświetl film, który powstał w 2019 roku.
+![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/8990fdfc-2fee-4e86-9073-8b8cb8fa0189)
 
 ####  3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/b4336e51-b2c5-4cec-96c2-98519054f262)
 
 ####  4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/f0cf9935-676d-4409-9112-b21cfb42998b)
 
 ####  5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/b757bad0-0e89-4714-917d-3a2864084336)
 
 ####  6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/d2968c01-42b3-465c-bda5-6d2a1f4ba8bf)
 
 ####  7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/181f1fa3-f851-4b5b-bf0b-44d5001793af)
 
 ####  8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/a447931c-c2be-4c5a-96dc-7ee3f7c7ac71)
 
 ####  9. Wyświetl dane klienta, który nie ma podanego adresu email.
+![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/d46be3cc-e772-43a9-90da-139be0aa1abf)
 
 #### 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/fb144af6-80f1-4b88-a22d-b55a17df0d86)
+
 
 
 
