@@ -236,6 +236,8 @@ Są to polecenia wyszukiwań danych w bazie np. SELECT * FROM _nazwa-tabeli_ (gw
 ## Subtask 3 Zadania 
 
 ####  1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/64ea23bd-d1ab-4c9b-b823-554d61e472a8)
+
 
 ####  2. Wyświetl film, który powstał w 2019 roku.
 
