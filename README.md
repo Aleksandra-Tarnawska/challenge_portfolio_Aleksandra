@@ -291,11 +291,9 @@ Gwiazdka oznacza, że należy wyszukać wszystkie kolumny tabeli.
 ![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/934179c1-869b-407a-871d-209281486178)
 
 #### 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. 
-- Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer.
-  
+- Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer.  <br>  
   ![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/84557efe-ad25-461b-b37e-5340a027d20a)
-- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
-  
+- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag  <br>  
   ![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/ae19b5f3-dd26-4f95-91ae-6dc2a4bdb6ee)
 
 #### 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
@@ -320,12 +318,12 @@ Test z zakresu sylabusa ISTQB (zestaw pytań ECRU) znajduje się na stronie http
 
 ## Pytania rekrutacyjne
 
-👉 Do czego służy komenda Alter table.
+👉 Do czego służy komenda Alter table.  <br>
 Instrukcja ALTER TABLE pozwala na zmianę struktury istniejącej tabeli: dodania lub usuwania kolumn, tworzenia lub usuwania indeksów, zmieniania typów lub kolejności istniejących kolumn oraz zmieniania nazwy kolumn i  tabel. Pozwala również na edycję komentarzy do tabeli lub jej typu.
 
-👉 Rozwiń skrót SQL?
+👉 Rozwiń skrót SQL?  <br>
 SQL - Structured Query Language.
 
-👉 Jaka jest różnica pomiędzy SQL a MySql?
+👉 Jaka jest różnica pomiędzy SQL a MySql?  <br>
 SQL to język zapytań bazy danych, a MySQL to system zarządzania relacyjną bazą danych. 
 
