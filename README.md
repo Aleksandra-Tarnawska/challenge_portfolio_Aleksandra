@@ -288,11 +288,42 @@ Gwiazdka oznacza, że należy wyszukać wszystkie kolumny tabeli.
 ![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/a9a20b81-ce3b-4836-b0c5-e943a3d2dac9)
 
 #### 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
-#### 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
-#### 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
-#### 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
-#### 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
-#### 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
-#### 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
+![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/934179c1-869b-407a-871d-209281486178)
 
+#### 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. 
+- Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,
+  ![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/84557efe-ad25-461b-b37e-5340a027d20a)
+- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
+  ![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/ae19b5f3-dd26-4f95-91ae-6dc2a4bdb6ee)
+
+#### 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
+![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/9999a663-8ce5-4d8a-b727-596724974970)
+
+#### 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
+![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/f1e0da50-151e-4df7-80f0-2cedc439ad7f)
+
+#### 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
+![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/0b9e889d-bd14-4f05-9be2-d21b01fe67e4)
+
+#### 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
+![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/393461e8-c23e-4943-8414-1d91936b02a7)
+
+#### 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
+![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/cd70c0b1-2227-4e23-a141-776852ce3074)
+
+## Subtask 2 Test 
+Test z zakresu sylabusa ISTQB (zestaw pytań ECRU) znajduje się na stronie http://getistqb.com/. Mój wynik to 13/15 pkt.
+
+## Subtask 3 Portfolio
+
+## Pytania rekrutacyjne
+
+👉 Do czego służy komenda Alter table.
+Instrukcja ALTER TABLE pozwala na zmianę struktury istniejącej tabeli: dodania lub usuwania kolumn, tworzenia lub usuwania indeksów, zmieniania typów lub kolejności istniejących kolumn oraz zmieniania nazwy kolumn i  tabel. Pozwala również na edycję komentarzy do tabeli lub jej typu.
+
+👉 Rozwiń skrót SQL
+SQL - Structured Query Language.
+
+👉 Jaka jest różnica pomiędzy SQL a MySql?
+SQL to język zapytań bazy danych, a MySQL to system zarządzania relacyjną bazą danych. 
 
