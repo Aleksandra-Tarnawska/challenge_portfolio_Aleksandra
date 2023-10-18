@@ -321,11 +321,9 @@ Test z zakresu sylabusa ISTQB (zestaw pytań ECRU) znajduje się na stronie http
 ## Pytania rekrutacyjne
 
 👉 Do czego służy komenda Alter table.
-
 Instrukcja ALTER TABLE pozwala na zmianę struktury istniejącej tabeli: dodania lub usuwania kolumn, tworzenia lub usuwania indeksów, zmieniania typów lub kolejności istniejących kolumn oraz zmieniania nazwy kolumn i  tabel. Pozwala również na edycję komentarzy do tabeli lub jej typu.
 
 👉 Rozwiń skrót SQL?
-
 SQL - Structured Query Language.
 
 👉 Jaka jest różnica pomiędzy SQL a MySql?
