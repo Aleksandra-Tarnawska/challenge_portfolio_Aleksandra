@@ -315,6 +315,7 @@ Gwiazdka oznacza, że należy wyszukać wszystkie kolumny tabeli.
 Test z zakresu sylabusa ISTQB (zestaw pytań ECRU) znajduje się na stronie http://getistqb.com/. Mój wynik to 13/15 pkt.
 
 ## Subtask 3 Portfolio
+https://github.com/Aleksandra-Tarnawska/PORTFOLIO/blob/main/README.md
 
 ## Pytania rekrutacyjne
 
