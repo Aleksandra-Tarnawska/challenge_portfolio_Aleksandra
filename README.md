@@ -4,11 +4,13 @@
  - 👉[Subtask 1.2](#Subtask-1.2)
  - 👉[Subtask 1.3](#Subtask-1.3)
  - 👉[Subtask 1.4](#Subtask-1.4)
+ - 👉[Subtask 1.5](#Subtask-1.5)
+
  
 ## Subtask 1.1
 8/10 punktów :blush: (mini test DareIT Challengers).
 ## Subtask 1.2
-Dodanie repozytorium do GitHub ✔ 
+✔ Dodanie repozytorium do GitHub 
 ## Subtask 1.3
 
 Cześć,
@@ -17,7 +19,7 @@ nazywam się Ola. Do udziału w projekcie zgłosiłam się z chęcią ustruktury
 
 Moim głównym celem jest zdobycie nowej pracy.
 
-## Subtask 4
+## Subtask 1.4
 ### Na czym polega aplikacja?
 Aplikacja **Scouts Panel** jest aplikacją dedykowaną dla sportowych łowców talentów specjalizujących się w dziedzinie piłki nożnej. Umożliwia przeglądanie wskaźników, umiejętności i pozycje zawodników. Dostępna jest pod adresem: _https://scouts-test.futbolkolektyw.pl/_, a wgląd do danych mają tylko zarejetrowani użytkownicy.
 
@@ -110,6 +112,9 @@ Aplikacja jest raczej intuiczyjna, jest to zasługą stosunkowo małej liczby fu
 #### Lista graczy
 - (Wersja PL) W sekcji funkcjonalności wyszukiwania gracza, przycisk _"Filtruj"_ i _"Resetuj"_ nie zostały przetłumaczone na język polski.
 - (Wersja PL) Po najechaniu na ikony, podpowiedzi wyświetlają się w języku angielskim.
+
+## Subtask 1.5 
+✔ Utworzenie konta - Jira (dodatkowe)
 
 # TASK 3
 Zadanie Task 3 zostało wykonane dla aplikacji _dareit.futbolkolektyw.pl_ w środowisku produkcyjnym. Plan testów oraz raport został opublikowany w arkuszu Excel pod linkiem: https://drive.google.com/drive/u/0/folders/1UR2puhAVboBAhpV2ZmQCMOp9ILxboQdy . 
@@ -268,16 +273,6 @@ Są to polecenia wyszukiwań danych w bazie np. SELECT * FROM _nazwa-tabeli_ (gw
 #### 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 ![obraz](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/assets/75180405/fb144af6-80f1-4b88-a22d-b55a17df0d86)
 
-## Pytania rekrutacyjne
-
-👉 Co to jest SQL? <br>
-SQL (Structured Query Language) to język programowania w postaci strukturalnego języka zapytań opartego o cztery polecenia SQL – Data Manipulation, Data Query, Data Control oraz SQL Data Definition. Język ten służy do tworzenia baz danych oraz ich modyfikacji i manipulacji danymi, które się w nich znajdują. Procesy te realizuje się w języku SQL.
-
-👉 Co robi SELECT w zapytaniach SQLowych? <br>
-SELECT jest to podstawowa klauzula SQL - używana do wyszukiwania danych w tabeli. Występuje wraz z klauzulą FROM.
-
-👉 Co robi * postawiona za SELECTem  w zapytaniach SQLowych? <br>
-Gwiazdka oznacza, że należy wyszukać wszystkie kolumny tabeli.
 
 # TASK 6
 ## Subtask 1  Kurs podstaw SQL
@@ -320,14 +315,10 @@ Test z zakresu sylabusa ISTQB (zestaw pytań ECRU) znajduje się na stronie http
 ## Subtask 3 Portfolio
 [Portfolio](https://github.com/Aleksandra-Tarnawska/PORTFOLIO/blob/main/README.md)
 
-## Pytania rekrutacyjne
 
-👉 Do czego służy komenda Alter table.  <br>
-Instrukcja ALTER TABLE pozwala na zmianę struktury istniejącej tabeli: dodania lub usuwania kolumn, tworzenia lub usuwania indeksów, zmieniania typów lub kolejności istniejących kolumn oraz zmieniania nazwy kolumn i  tabel. Pozwala również na edycję komentarzy do tabeli lub jej typu.
+#Pytania rekrutacyjne
+[Pytania rekrutacyjne](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra/edit/main/Teoria.md)
 
-👉 Rozwiń skrót SQL?  <br>
-SQL - Structured Query Language.
 
-👉 Jaka jest różnica pomiędzy SQL a MySql?  <br>
-SQL to język zapytań bazy danych, a MySQL to system zarządzania relacyjną bazą danych. 
+
 
