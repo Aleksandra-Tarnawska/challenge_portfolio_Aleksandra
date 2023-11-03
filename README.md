@@ -1,12 +1,15 @@
 # challenge_portfolio_Aleksandra
 # TASK 1
- - 👉[Subtask 1](#Subtask-1)
- - 👉[Subtask 3](#Subtask-3)
- - 👉[Subtask 4](#Subtask-4)
+ - 👉[Subtask 1.1](#Subtask-1.1)
+ - 👉[Subtask 1.2](#Subtask-1.2)
+ - 👉[Subtask 1.3](#Subtask-1.3)
+ - 👉[Subtask 1.4](#Subtask-1.4)
  
-## Subtask 1
-8/10 punktów :blush: 
-## Subtask 3
+## Subtask 1.1
+8/10 punktów :blush: (mini test DareIT Challengers).
+## Subtask 1.2
+Dodanie repozytorium do GitHub ✔ 
+## Subtask 1.3
 
 Cześć,
 
