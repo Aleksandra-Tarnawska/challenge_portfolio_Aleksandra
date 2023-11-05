@@ -1,3 +1,12 @@
+# Pytania rekrutacyjne
+
+## Task 1
+👉 Co to są testy eksploracyjne?
+👉 Co należy do zadań testera oprogramowania?
+👉 Kim jest tester oprogramowania?
+👉 Czym są odpowiedzi z serwera HTTP?
+
+
 👉 Co to jest SQL? <br>
 SQL (Structured Query Language) to język programowania w postaci strukturalnego języka zapytań opartego o cztery polecenia SQL – Data Manipulation, Data Query, Data Control oraz SQL Data Definition. Język ten służy do tworzenia baz danych oraz ich modyfikacji i manipulacji danymi, które się w nich znajdują. Procesy te realizuje się w języku SQL.
 
